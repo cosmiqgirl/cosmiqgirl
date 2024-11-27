@@ -1,16 +1,20 @@
-## Hi there 👋
+<!-- Name: Maryam Sindhu -->
+<!-- Date: 19-06-2024 --> 
+<!-- Tech Used: HTML (Language), MarkDown (Language) --> 
 
-<!--
-**cosmiqgirl/cosmiqgirl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Header with Swapping and Typing Text -->
+<!-- Visitor badge with inline CSS -->
+<div align="right">
+    <a href="https://visitcount.itsvg.in">
+        <img src="https://visitcount.itsvg.in/api?id=CosmicGirl-m&label=Profile%20Views&color=12&icon=0&pretty=true" />
+        <br/>
+    </a>
+</div>
 
-Here are some ideas to get you started:
+<!-- Interactive Intro -->
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+I'm+Maryam+✦;+Welcome+to+my+GitHub.;&color=000000" />
+</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Gif Image --> 
+<img align="right" alt="Coding" width="300" src="https://github.com/CosmicGirl-m/CosmicGirl-m/assets/131784143/30d413bb-ddfe-4c73-8eba-b0c7a35bae88">
