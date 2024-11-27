@@ -17,23 +17,16 @@
 
 <!-- A little about me section --> 
 <div align="left">
-Hi, I'm Maryam! I'm currently a second-year student at the University of Ottawa pursuing an Honours BSc in Computer Science & Engineering. I specialize in **AI/ML 🤖**, **humanoid robotics 🤖**, and **game development 🎮**, with a keen interest in **space automation 🚀**. I aim to leverage cutting-edge technologies to advance space exploration, create seamless human-robot interactions, and revolutionize immersive game experiences with VR/AR. 
+Hi, I'm Maryam! I'm currently a second-year student at the University of Ottawa pursuing an Honours BSc in Computer Science & Engineering. I specialize in <strong>AI/ML</strong>, <strong>humanoid robotics</strong>, and <strong>game development</strong>, with a keen interest in <strong>space automation</strong>. I aim to leverage cutting-edge technologies to advance space exploration, create seamless human-robot interactions, and revolutionize immersive game experiences with VR/AR.  
+    
+🔍 I enjoy working with **Python**, **C++**, **TensorFlow**, **PyTorch**, and **Unity** to develop innovative and scalable solutions that push the boundaries of what's possible. I am actively seeking an internship in **AI**, **Research**, **Full-Stack Development**, or **Robotic Programming** where I can contribute my expertise to groundbreaking projects that address real-world challenges. If this resonates with you feel free to reach out!
 
-I enjoy working with **Python 🐍**, **C++**, **TensorFlow**, **PyTorch**, and **Unity** to build innovative, scalable solutions that can push the boundaries of what's possible. Let's collaborate and connect if you're interested in AI-driven projects, robotics, or space technologies!
-
-Hi, I'm Maryam! I'm currently a second-year student at the University of Ottawa pursuing an Honours BSc in Computer Science & Engineering. I specialize in <strong>AI/ML</strong>, <strong>humanoid robotics</strong>, and <strong>game development</strong>, with a keen interest in <strong>space automation</strong>. I aim to leverage cutting-edge technologies to advance space exploration, create seamless human-robot interactions, and revolutionize immersive game experiences with VR/AR.</p>
-I enjoy working with Python, C++, TensorFlow, PyTorch, and Unity to build innovative, scalable solutions that can push the boundaries of what's possible. Let's collaborate and connect if you're interested in AI-driven projects, robotics, or space technologies!
+💬 Let's chat about **Game Design Physics**, **Quantum Physics**, **3D-Design, VR/AR**, **Machine Learning & Humanoid Technology**. 📧 sindhumaryam@aol.com
 
 ## **Let's Connect! 🤝**<br/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maryam-sindhu-652673301/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@maryamks897)
 
-
-
-<!-- A little about me section --> 
-➜ I'm an Aspiring **AI Engineer** currently pursuing an **Honours BCS at the University of Ottawa** specializing in **AI/ML & Data Science**. 
-
-💬 Let's chat about **Game Design Physics, Quantum Physics, 3D-Design, VR/AR, Machine Learning & Humanoid Technology. Reach me: 📧 maryamsindhu.work@gmail.com**
 
 🔍 I am actively seeking an internship in **AI, Research, Full-Stack Development and Robotic Programming** to contribute my expertise to ground-breaking and innovative projects that solve real-world problems. 
 
