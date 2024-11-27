@@ -15,54 +15,20 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+I'm+Maryam+✦;+Welcome+to+my+GitHub.;&color=000000" />
 </h1>
 
+<!-- A little about me section --> 
+<div align="left">
+Hi, I'm Maryam! I'm currently a second-year student at the University of Ottawa pursuing an Honours BSc in Computer Science & Engineering. I specialize in **AI/ML 🤖**, **humanoid robotics 🤖**, and **game development 🎮**, with a keen interest in **space automation 🚀**. I aim to leverage cutting-edge technologies to advance space exploration, create seamless human-robot interactions, and revolutionize immersive game experiences with VR/AR. 
+
+I enjoy working with **Python 🐍**, **C++**, **TensorFlow**, **PyTorch**, and **Unity** to build innovative, scalable solutions that can push the boundaries of what's possible. Let's collaborate and connect if you're interested in AI-driven projects, robotics, or space technologies!
+
+Hi, I'm Maryam! I'm currently a second-year student at the University of Ottawa pursuing an Honours BSc in Computer Science & Engineering. I specialize in <strong>AI/ML</strong>, <strong>humanoid robotics</strong>, and <strong>game development</strong>, with a keen interest in <strong>space automation</strong>. I aim to leverage cutting-edge technologies to advance space exploration, create seamless human-robot interactions, and revolutionize immersive game experiences with VR/AR.</p>
+I enjoy working with Python, C++, TensorFlow, PyTorch, and Unity to build innovative, scalable solutions that can push the boundaries of what's possible. Let's collaborate and connect if you're interested in AI-driven projects, robotics, or space technologies!
+
+## **Let's Connect! 🤝**<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maryam-sindhu-652673301/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@maryamks897)
 
 
-    
-</div>
-<div style="background-color: black; color: white; padding: 20px;">
-  # Your Title Here
-  Welcome to my GitHub profile!
-  Here's some content you can customize.  
-</div>
-
-
-# stops here 
-
-<html>
-  <head>
-    <style>
-      body {
-        background-color: black;
-        color: white;
-        font-family: Arial, sans-serif;
-        margin: 0;
-        padding: 0;
-      }
-    </style>
-  </head>
-  <body>
-
-    <!-- Header with Swapping and Typing Text -->
-    <!-- Visitor badge with inline CSS -->
-    <div align="right">
-        <a href="https://visitcount.itsvg.in">
-            <img src="https://visitcount.itsvg.in/api?id=CosmicGirl-m&label=Profile%20Views&color=12&icon=0&pretty=true" />
-            <br/>
-        </a>
-    </div>
-
-    <!-- Interactive Intro -->
-    <h1 align="center">
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+I'm+Maryam+✦;+Welcome+to+my+GitHub.;&color=FFFFFF" />
-    </h1>
-
-  </body>
-</html>
-
-
-
-<!-- Gif Image --> 
-<img align="right" alt="Coding" width="300" src="https://github.com/CosmicGirl-m/CosmicGirl-m/assets/131784143/30d413bb-ddfe-4c73-8eba-b0c7a35bae88">
 
 <!-- A little about me section --> 
 ➜ I'm an Aspiring **AI Engineer** currently pursuing an **Honours BCS at the University of Ottawa** specializing in **AI/ML & Data Science**. 
@@ -156,12 +122,52 @@
 
 
 
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-💻 **Interested in my Professional Experience? <br/> [Resume](Resume-in-progress) | [Portfolio](Portfolio-in-progress)**
+###
 
-## **Let's Connect! 🤝**<br/>
-[![Behance](https://img.shields.io/badge/Behance-1769FF?style=flat&logo=behance&logoColor=white)](https://www.behance.net/maryamsindhu)
-[![X.com](https://img.shields.io/badge/X.com-12100E?style=flat&logo=x&logoColor=white)](https://x.com/CosmicGirl_m)
-[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white)](https://dribbble.com/maryamk99)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maryam-sindhu-652673301/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@maryamks897)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cosmiqgirl&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cosmiqgirl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/cosmiqgirl/cosmiqgirl/output/snake.svg" alt="Snake animation" />
+
+###
