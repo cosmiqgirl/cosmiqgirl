@@ -17,13 +17,13 @@
 
 <!-- A little about me section --> 
 <div align="left">
-Hi, I'm Maryam! I'm currently a second-year student at the University of Ottawa pursuing an Honours BSc in Computer Science & Engineering. <br>  I specialize in <strong>AI/ML</strong>, <strong>humanoid robotics</strong>, and <strong>game development</strong>, with a keen interest in <strong>space automation</strong>. I aim to leverage cutting-edge technologies to advance space exploration, create seamless human-robot interactions, and revolutionize immersive game experiences with VR/AR.  <br><br> 
+Hi, I'm Maryam! I'm a 2nd-Year student at the University of Ottawa pursuing an Honours BSc in Computer Science & Engineering. <br>  I'm specializing in <strong>AI/ML</strong>. Furthermore, I'm also very interested in <strong>Humanoid Robotics</strong>, <strong>Game Development</strong> and <strong>Space Automation</strong>. 
     
-🔍 I enjoy working with **Python**, **C++**, **TensorFlow**, **PyTorch**, and **Unity** to develop innovative and scalable solutions that push the boundaries of what's possible. I am actively seeking an internship in **AI**, **Research**, **Full-Stack Development**, or **Robotic Programming** where I can contribute my expertise to groundbreaking projects that address real-world challenges. If this resonates with you feel free to reach out!
+<br>🔍 I enjoy working with **Python**, **C++**, **TensorFlow**, **PyTorch**, and **Unity** to develop innovative and scalable solutions that push the boundaries of what's possible. I am actively seeking an internship in **AI**, **Research**, **Full-Stack Development**, or **Robotic Programming** where I can contribute my expertise to groundbreaking projects that address real-world challenges. If this resonates with you feel free to reach out!
 
-💬 Let's chat about **Game Design Physics**, **Quantum Physics**, **3D-Design, VR/AR**, **Machine Learning & Humanoid Technology**. 📧 sindhumaryam@aol.com
+📧Email: sindhumaryam@aol.com
 
-## **Let's Connect! 🤝**<br/>
+### **Let's Connect! 🤝**<br/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maryamsindhu/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@mrym_)
 
