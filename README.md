@@ -80,21 +80,20 @@
 
 ## ⚡Statistics: 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CosmicGirl-m&show_icons=true&title_color=ff69b4&icon_color=ff69b4&text_color=000000&bg_color=ffffff" alt="CosmicGirl's GitHub stats"> <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CosmicGirl-m&layout=compact&title_color=ff69b4&text_color=000000&bg_color=ffffff" alt="Top Languages"> <br/>
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=CosmicGirl-m&background=ffffff&ring=ff69b4&fire=ff69b4&currStreakNum=000000&sideNums=000000&currStreakLabel=ff69b4&sideLabels=000000&dates=000000" alt="GitHub Streak">
-  </a>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=CosmicGirl-m&theme=flat&no-bg=true&no-frame=true&title_color=ff69b4&text_color=000000" alt="Trophy">
-  </a>
+  <!-- GitHub Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=cosmiqgirl&show_icons=true&title_color=000000&icon_color=ff69b4&text_color=000000&bg_color=ffffff&hide_border=false" 
+    alt="cosmiqgirl's GitHub Stats" 
+    height="150" 
+  />
+  
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmiqgirl&layout=compact&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=false" 
+    alt="Top Languages" 
+    height="150" 
+  />
 </div>
 
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cosmiqgirl&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cosmiqgirl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
