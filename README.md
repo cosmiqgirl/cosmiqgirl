@@ -38,7 +38,26 @@
 
 [Resume](Resume-in-progress) | [Portfolio](Portfolio-in-progress)
 
+![Python](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white) ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-%2300599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%234EA94B?style=flat-square&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-%23013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458?style=flat-square&logo=pandas&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8?style=flat-square&logo=opencv&logoColor=white) ![ROS](https://img.shields.io/badge/ROS-%23409FFF?style=flat-square&logo=ros&logoColor=white) ![Git/GitHub](https://img.shields.io/badge/Git%2FGitHub-%23181717?style=flat-square&logo=github) ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131?style=flat-square&logo=unreal-engine&logoColor=white) ![Julia](https://img.shields.io/badge/Julia-%23A8C5FF?style=flat-square&logo=julia&logoColor=white) ![R](https://img.shields.io/badge/R-%23276DC3?style=flat-square&logo=r&logoColor=white)
+
+
 ### 🧰 Languages and Tools
+![Python](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white)  
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-%2300599C?style=flat-square&logo=c%2B%2B&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=flat-square&logo=tensorflow&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C?style=flat-square&logo=pytorch&logoColor=white)  
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%234EA94B?style=flat-square&logo=scikit-learn&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-%23013243?style=flat-square&logo=numpy&logoColor=white)  
+![Pandas](https://img.shields.io/badge/pandas-%23150458?style=flat-square&logo=pandas&logoColor=white)  
+![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8?style=flat-square&logo=opencv&logoColor=white)  
+![ROS](https://img.shields.io/badge/ROS-%23409FFF?style=flat-square&logo=ros&logoColor=white)  
+![Git/GitHub](https://img.shields.io/badge/Git%2FGitHub-%23181717?style=flat-square&logo=github)  
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131?style=flat-square&logo=unreal-engine&logoColor=white)  
+![Julia](https://img.shields.io/badge/Julia-%23A8C5FF?style=flat-square&logo=julia&logoColor=white)  
+![R](https://img.shields.io/badge/R-%23276DC3?style=flat-square&logo=r&logoColor=white)
+
+
+
 ![Python](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-%23276DC3?style=flat-square&logo=r&logoColor=white)
 ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-%2300599C?style=flat-square&logo=c%2B%2B&logoColor=white)
