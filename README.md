@@ -81,22 +81,5 @@
 ![ROS](https://img.shields.io/badge/ROS-%23409FFF?style=flat-square&logo=ros&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-## ⚡Statistics: 
-<div align="center">
-  <!-- GitHub Stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=cosmiqgirl&show_icons=true&title_color=000000&icon_color=ff69b4&text_color=000000&bg_color=ffffff&hide_border=false" 
-    alt="cosmiqgirl's GitHub Stats" 
-    height="150" 
-  />
-  
-  <!-- Top Languages -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmiqgirl&layout=compact&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=false" 
-    alt="Top Languages" 
-    height="150" 
-  />
-</div>
-
 
 
