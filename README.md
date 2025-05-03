@@ -2,10 +2,7 @@
 <!-- Date: 19-06-2024 --> 
 <!-- Tech Used: HTML (Language), MarkDown (Language) --> 
 
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Arial+Black&size=38&duration=4000&pause=1000&color=0047AB&width=900&height=100&lines=Hi,+I'm+Maryam!;Welcome+to+my+GitHub!;Artist+%2F+Coder+%2F+Designer+%2F+Visionary" alt="Typing SVG" />
-</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cal+Sans&size=30&letterSpacing=-1px&pause=1000&color=254FC9&vCenter=true&width=450&lines=Welcome+to+my+Github!;I'm+Maryam.;Artist+%2F+Coder+%2F+Designer+%2F+Visionary)](https://git.io/typing-svg)
 
 <!-- A little about me section --> 
 <div align="left">
