@@ -2,17 +2,9 @@
 <!-- Date: 19-06-2024 --> 
 <!-- Tech Used: HTML (Language), MarkDown (Language) --> 
 
-<!-- Header with Swapping and Typing Text -->
-<!-- Visitor badge with inline CSS -->
-<div align="right">
-    <a href="https://visitcount.itsvg.in">
-        <img src="https://visitcount.itsvg.in/api?id=CosmicGirl-m&label=Profile%20Views&color=12&icon=0&pretty=true" />
-        <br/>
-    </a>
 
-<!-- Interactive Intro -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+I'm+Maryam+✦;+Welcome+to+my+GitHub.;&color=000000" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial+Black&size=38&duration=4000&pause=1000&color=0047AB&width=900&height=100&lines=Hi,+I'm+Maryam!;Welcome+to+my+GitHub!;Artist+%2F+Coder+%2F+Designer+%2F+Visionary" alt="Typing SVG" />
 </h1>
 
 <!-- A little about me section --> 
