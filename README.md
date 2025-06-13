@@ -11,7 +11,6 @@
 <br>🚀 I enjoy working with **Python**, **C++**, **TensorFlow**, **PyTorch**, and **Unity** to develop innovative and scalable solutions that push the boundaries of what's possible. 
 🔍 I am actively seeking an internship in **AI**, **Research**, **Full-Stack Development**, or **Robotic Programming** where I can contribute my expertise to groundbreaking projects that address real-world challenges. If this resonates with you feel free to reach out!
 
-📧**Email:** sindhumaryam@aol.com
 
 ### ᯤ **Socials**<br/>
 
